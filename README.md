@@ -7,7 +7,7 @@
 <img src="https://s1.ax1x.com/2020/04/26/JRuNrR.png" width = "500" height = "300" alt="github实现云签到" align=center />
 
 ### 前言
-为了让同学们更加认真、更加专注听课，而不去用手机签到花费大量时间、耗费大量精力，特此在[原脚本](https://github.com/mkdir700/chaoxing_auto_sign)中开发升级，请自行合理使用！挂科请不要找我，谢谢合作！请点击下方View all of README.md了解更多。
+为了让同学们更加认真、更加专注听课，而不去用手机签到花费大量时间、耗费大量精力，特此在[原脚本](https://github.com/mkdir700/chaoxing_auto_gn)中开发升级，请自行合理使用！挂科请不要找我，谢谢合作！请点击下方View all of README.md了解更多。
 
 本项目支持学习通任何形式的签到（包括二维码签到、手势签到等），如果是位置签到也可以自定义位置，如果是拍照签到，请自认倒霉，因为默认是黑色照片，自定义照片还在等待开发中。
 
@@ -143,10 +143,10 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 由于本项目被大量fork并启动actions功能，占用github官方服务器大量资源。部分用户反映无法签到，actions功能被禁止等问题。但是大部分用户仍然正常可以使用；解决方法：1.使用使用Travis Ci运行。学业繁忙，不予教程。2.请访问我的服务器 https://cx.clost.net 但并不保证其稳定性。（目前源码臃肿，修改删减后上传）3.用自己的服务器运行其中的py脚本。
 
 
-[7]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3749713206.png
+[7]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/37497106.png
 [1]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3207755264.jpg
-[2]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/437025077.jpg
-[3]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3185006214.jpg
-[4]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/977504155.jpg
-[5]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/1888532943.jpg
-[6]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3351341396.jpg
+[2]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/4375077.jpg
+[3]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/318006214.jpg
+[4]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/9787504155.jpg
+[5]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/188877532943.jpg
+[6]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3351399341396.jpg
